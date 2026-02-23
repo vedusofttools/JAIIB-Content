@@ -2,15 +2,20 @@
   "papers": {
     "1": [
       {
-        "module": "Module A",
+        "module": "Module A",        "notes": [
+          {
+            "id": "notes_niti.md",
+            "title": "NITI Aayog & Five Year Plans Notes"
+          }
+        ],
         "tests": [
           {
-            "id": "test1.md",
-            "title": "Mock Test 1: Indian Economy Overview"
+            "id": "01_niti.md",
+            "title": "Mock Test 1: NITI Aayog"
           },
           {
-            "id": "test2.md",
-            "title": "Mock Test 2: Banking Evolution"
+            "id": "02_fiveyear.md",
+            "title": "Mock Test 2: Five Year Plans"
           }
         ]
       }
@@ -18,10 +23,11 @@
     "4": [
       {
         "module": "Module B",
+        "notes": [],
         "tests": [
           {
             "id": "05_retail_asset_products.md",
-            "title": "Retail Asset Products"
+            "title": "Retail Asset Products Test"
           }
         ]
       }
