@@ -1,4 +1,4 @@
-Banker–Customer Relationship
+# Banker–Customer Relationship
 
 MODULE A – GENERAL BANKING OPERATIONS  
 JAIIB – Detailed Legal & Conceptual Notes (Beginner Friendly + Case-Oriented)
@@ -283,4 +283,5 @@ Indemnity cases → Indemnifier
 Most case-based questions test whether you can identify the correct legal relationship.
 
 ---
+
 
