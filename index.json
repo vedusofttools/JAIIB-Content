@@ -1,1 +1,30 @@
-{\n  "repository": "JAIIB-Content",\n  "owner": "vedusofttools",\n  "description": "JAIIB Content organized by Tests and Notes",\n  "structure": {\n    "Tests": {\n      "paper1": ["Module A", "Module B", "Module C", "Module D"],\n      "paper2": ["Module A", "Module B", "Module C", "Module D"],\n      "paper3": ["Module A", "Module B", "Module C", "Module D"],\n      "paper4": ["Module A", "Module B", "Module C", "Module D"]\n    },\n    "Notes": {\n      "paper1": ["Module A", "Module B", "Module C", "Module D"],\n      "paper2": ["Module A", "Module B", "Module C", "Module D"],\n      "paper3": ["Module A", "Module B", "Module C", "Module D"],\n      "paper4": ["Module A", "Module B", "Module C", "Module D"]\n    }\n  }\n}
+{
+  "papers": {
+    "1": [
+      {
+        "module": "Module A",
+        "tests": [
+          {
+            "id": "test1.md",
+            "title": "Mock Test 1: Indian Economy Overview"
+          },
+          {
+            "id": "test2.md",
+            "title": "Mock Test 2: Banking Evolution"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "module": "Module B",
+        "tests": [
+          {
+            "id": "05_retail_asset_products.md",
+            "title": "Retail Asset Products"
+          }
+        ]
+      }
+    ]
+  }
+}
